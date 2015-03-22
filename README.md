@@ -1,2 +1,2 @@
 # findinpath
-find files in $PATH
+find files in $PATH (C version)
